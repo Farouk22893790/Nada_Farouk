@@ -1,5 +1,7 @@
 
 public class suharcram {
 String nom;
-String matricule
+String matricule;
+String email;
+init number;
 }
